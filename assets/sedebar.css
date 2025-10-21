@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #f4f6f9;
+}
+
+.sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+.sidebar a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  margin: 5px 0;
+  border-radius: 6px;
+}
+
+.sidebar a:hover {
+  background: #3498db;
+  color: white;
+}
