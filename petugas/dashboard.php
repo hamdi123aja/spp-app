@@ -31,7 +31,7 @@ $latestPayments = $pdo->query("
 
   <div class="dashboard-cards">
     <div class="card siswa">
-      <h3>Total Siswa</h3>
+      <h3>Total Siswaaa</h3>
       <p><?= $totalSiswa ?></p>
     </div>
     <div class="card spp">
@@ -39,7 +39,7 @@ $latestPayments = $pdo->query("
       <p><?= $totalSpp ?></p>
     </div>
     <div class="card admin">
-      <h3>Total Pembayaran</h3>
+      <h3>Total Pembayaran SPP</h3>
       <p>Rp<?= number_format($totalBayar, 0, ',', '.') ?></p>
     </div>
   </div>
