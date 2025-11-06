@@ -27,7 +27,7 @@ $latestPayments = $pdo->query("
 ?>
 
 <div class="main-content">
-  <h2>Dashboard Petugas</h2>
+  <h2>Dashboard Petugas Hamdi</h2>
 
   <div class="dashboard-cards">
     <div class="card siswa">
