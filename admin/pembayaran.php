@@ -34,7 +34,7 @@ if (isset($_POST['simpan'])) {
 ?>
 
 <div class="main-content">
-    <h2>Entry Pembayaran</h2>
+    <h2>Entry Pembayaran SPP</h2>
 
     <!-- Form entry -->
     <form method="post" class="mb-4">
